@@ -5,5 +5,5 @@ This is a modified version of the Google Translate plugin that can translate the
 
 在开发者模式下加载解压插件即可使用
 
-#### :arrow_double_down: [翻译包插件下载](https://github.com/GODPublic/DOWN/raw/main/Translation-plugin.zip)
+#### :arrow_double_down: [翻译包插件下载点我](https://github.com/GODPublic/DOWN/raw/main/Translation-plugin.zip)
 ![image](https://user-images.githubusercontent.com/106013982/173212057-6f65daaf-7041-4e6b-98ec-ace1405cf72a.png)
